@@ -1,7 +1,7 @@
 #!/bin/bash
 #title           :newuser.sh
 #description     :create users for freeswitch.
-#author          :xdtianyu@gmail.com
+#author          : bung19281928@gmail.com
 #date            :20141029
 #version         :1.0 final
 #usage           :bash newuser.sh user_number_start user_number_end (bash newuser.sh 10000 20000)
